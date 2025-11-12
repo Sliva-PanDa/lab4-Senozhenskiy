@@ -19,4 +19,4 @@
 -   **Непрерывная интеграция:** Настроен рабочий процесс GitHub Actions для автоматической сборки проекта.
 
 
-Здесь должен быть статус бэдж [![Build Lab 4 Project (Senozhenskiy)](https://github.com/IT-GSTU/itp16/actions/workflows/lab4-build.yml/badge.svg)](https://github.com/IT-GSTU/itp16/actions/workflows/lab4-build.yml)
+
